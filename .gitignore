@@ -2,3 +2,6 @@ Electronics.csv.gz
 Electronics.jsonl.gz
 chunks/
 *.parquet
+/dataset
+/.ipynb_checkpoints
+/.ipynb_checkpoints
